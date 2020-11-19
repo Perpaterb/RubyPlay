@@ -1,10 +1,10 @@
-# RubyPlay
-C++ was created 1985
 
-Python was created in 1991
+C++ created 1985
 
-Ruby was created 1995
+Python created in 1991
 
-Ruby on rails was created 2004
+Ruby created 1995
 
-Cristal lang created 2014
+Clojure created 2007 - on Java
+
+Cristal lang created 2014 - on Ruby
